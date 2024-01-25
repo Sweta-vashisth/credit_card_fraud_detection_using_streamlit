@@ -1,4 +1,4 @@
-Detect Fraudulent Credit Card transactions using different Machine Learning models and compare performances
+# Detect Fraudulent Credit Card transactions using different Machine Learning models and compare performances
 
 In this notebook, I explore various Machine Learning models to detect fraudulent use of Credit cards. I compare each model performance and results. The best performance is achieved using SMOTE technique.
 
