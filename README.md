@@ -12,6 +12,6 @@ The project uses a dataset of 300,000 fully anonymized transactions. Each transa
 # Techniques used in the project  
 The project compares the results of different techniques :
 
-Machine learning techniques:
+Machine learning techniques:  
 Random Forest  
 Decision Trees
