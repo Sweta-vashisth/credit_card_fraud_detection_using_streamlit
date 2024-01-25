@@ -19,4 +19,9 @@ Decision Trees
 # Results  
 The best results are achieved by over-sampling the under-represented class using SMOTE (synthetic minority oversampling technique). With this approach, the model is able to detect 100% of all fraudulent transactions in the unseen test set. This fully satisfies the primary objective to detect the vast majority of abnormal transactions. Please note that the technique and model used are simple to implement simple, easy to use and can be updated in real-time.
 
-In addition, the number of false positive remains acceptable. This means a lot less verification work (on legitimate transactions) for the fraud departement compare dto some other approaches which failed on this aspect.
+In addition, the number of false positive remains acceptable. This means a lot less verification work (on legitimate transactions) for the fraud departement compare dto some other approaches which failed on this aspect.  
+
+![credit_card_1](https://github.com/Sweta-vashisth/credit_card_fraud_detection_using_streamlit/assets/65237868/72391a1f-5bfe-42e0-a0f8-6fe0edc9ae1b)
+
+
+
